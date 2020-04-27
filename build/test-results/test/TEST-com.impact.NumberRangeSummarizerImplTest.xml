@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.impact.NumberRangeSummarizerImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-27T16:13:04" hostname="Roanns-Work-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testSummarizeCollectionIllegalArgumentException" classname="com.impact.NumberRangeSummarizerImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
